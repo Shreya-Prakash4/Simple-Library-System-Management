@@ -3,7 +3,7 @@
 It allows librarians or students to add, delete, issue, return, and view books in the library.
 A Java console-based application for managing library books.
 
-# ✨ Features
+## ✨ Features
 
 ➕ Add Books – Add new books with unique IDs.
 
@@ -19,16 +19,16 @@ A Java console-based application for managing library books.
 
 ⚠ Validation – Prevents duplicate book IDs, invalid dates, and incorrect inputs.
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 - Language: Java
 - Libraries Used:
 - java.util (Scanner, List, Iterator)
 - java.time (LocalDate for date validation)
 
-# ▶ How to Run
+## ▶ How to Run
 
-1.Clone this repository:git clone https://github.com/YourUsername/simple-Library-Management-System.git
+1.Clone this repository:git clone https://github.com/Shreya-Prakash4/simple-Library-Management-System.git
 
 2.Go into the project folder:cd simple-Library-Management-System
 
